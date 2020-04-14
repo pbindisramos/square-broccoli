@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: static/admin
 webhook_url: https://api.stackbit.com/project/5e95a53e5e73e60013e1d0ab/webhook/forestry
 sections:
+- type: heading
+  label: heading
 - type: document
   path: site-metadata.json
   label: Config
